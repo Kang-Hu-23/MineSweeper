@@ -1,0 +1,2 @@
+# MineSweeper
+a small game
